@@ -1,0 +1,14 @@
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Generated output directories
+plots/
+results/
+diagnostics/
+
+# OS files
+.DS_Store
+Thumbs.db
